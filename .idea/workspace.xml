@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c0d0d81-45ed-42b5-bcf9-c3e1e250afee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/CalcApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/UserDialogs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
