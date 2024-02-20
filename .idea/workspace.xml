@@ -5,11 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c0d0d81-45ed-42b5-bcf9-c3e1e250afee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/AdvCalcApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/AdvCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/abstracts/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/abstracts/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/abstracts/homework/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/abstracts/homework/Kolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/abstracts/homework/Kwadrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/abstracts/homework/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/abstracts/homework/Trojkat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/inheritance/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/inheritance/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/inheritance/Convertible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/inheritance/homework/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/inheritance/homework/Linux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/inheritance/homework/OperatingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/inheritance/homework/Windows.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-intro/src/main/java/UserDialogs.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/UserDialogs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-intro/src/main/java/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +55,6 @@
   <component name="ProjectId" id="2Z8c0LLgMcoPLoh0IiVodESfnJL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
@@ -55,59 +66,14 @@
     &quot;last_opened_file_path&quot;: &quot;C:/kodilla-course&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Aaa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aaa" />
-      <module name="kodilla-intro" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DebugExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DebugExample" />
-      <module name="kodilla-intro" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstClass" />
-      <module name="kodilla-course_main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeapYear" />
-      <module name="kodilla-intro" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops" />
-      <module name="kodilla-intro" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Loops" />
-        <item itemvalue="Application.Aaa" />
-        <item itemvalue="Application.LeapYear" />
-        <item itemvalue="Application.DebugExample" />
-        <item itemvalue="Application.FirstClass" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

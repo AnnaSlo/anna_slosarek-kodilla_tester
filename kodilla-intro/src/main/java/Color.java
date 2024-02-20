@@ -13,7 +13,7 @@ public class Color {
         System.out.print("Enter the first letter of the color: ");
         return scanner.next().charAt(0);
     }
-    public static String getColorName(char firstLetter) {
+        public static String getColorName(char firstLetter) {
         Scanner scanner = new Scanner(System.in);
         char letter = Character.toUpperCase(firstLetter);
         return switch (letter) {
