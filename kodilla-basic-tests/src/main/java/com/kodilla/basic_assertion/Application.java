@@ -7,15 +7,15 @@ public class Application {
         int b = 8;
 
         int sumResult = calculator.sum(a,b);
-        boolean correctSum = ResultChecker.assertEquals(13, sumResult);
+        boolean correctSum = ResultChecker.assertEquals(13, sumResult, 0.01);
         if (correctSum) {
             System.out.println("Metoda sum działa poprawnie dla liczb " + a + " i " + b);
         } else {
             System.out.println("Metoda sum nie działa poprawnie dla liczb " + a + " i " + b);
         }
 
-        int substractResult = calculator.subtract(a,b);
-        boolean correctSubstract = ResultChecker.assertEquals(-3, substractResult);
+        int substractResult = calculator.substract(a,b);
+        boolean correctSubstract = ResultChecker.assertEquals(-3, substractResult,0.01);
         if (correctSubstract) {
             System.out.println("Metoda substract działa poprawnie dla liczb " + a + " i " + b);
         } else {
@@ -23,7 +23,7 @@ public class Application {
         }
 
         double powerResult = calculator.power(a);
-        boolean correctPower = ResultChecker.assertEquals(25, powerResult);
+        boolean correctPower = ResultChecker.assertEquals(25, powerResult,0.01);
         if (correctPower){
             System.out.println(" Metoda power działa poprawnie dla liczby " + a);
         } else {
