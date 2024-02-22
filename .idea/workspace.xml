@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c0d0d81-45ed-42b5-bcf9-c3e1e250afee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/abstracts/AnimalProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/abstracts/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/abstracts/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/abstracts/homework2/Engineer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/abstracts/homework2/Job.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/abstracts/homework2/Painter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/abstracts/homework2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/abstracts/homework2/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/basic_assertion/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/basic_assertion/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/basic_assertion/ResultChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/abstracts/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/abstracts/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/abstracts/homework/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/abstracts/homework/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
