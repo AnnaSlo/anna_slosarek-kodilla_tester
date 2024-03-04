@@ -5,17 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c0d0d81-45ed-42b5-bcf9-c3e1e250afee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/bank/homework/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/bank/homework/CashMaschine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/basic_assertion/PrimeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/school/Grades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/school/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/test/java/com/kodilla/bank/homework/BankTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/test/java/com/kodilla/bank/homework/CashMaschineTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/test/java/com/kodilla/basic_assertion/PrimeCheckerTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/test/java/com/kodilla/school/GradesTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/test/java/com/kodilla/school/StudentTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/InterfacesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/homework/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/homework/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/homework/CarRace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/homework/Ford.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/homework/Opel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +31,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -53,6 +55,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -70,7 +73,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.com.kodilla.bank.homework in kodilla-basic-tests_test">
+  <component name="RunManager">
     <configuration name="BankTestSuite.shouldReturnTotalAverageOfDeposits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kodilla-basic-tests_test" />
       <extension name="coverage">
