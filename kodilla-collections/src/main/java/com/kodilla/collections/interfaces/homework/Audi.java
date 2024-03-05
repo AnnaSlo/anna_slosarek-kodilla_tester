@@ -6,7 +6,12 @@ public class Audi implements Car {
     public Audi(){
         this.speed = 0;
     }
-;    @Override
+
+    public Audi(int speed) {
+        this.speed = speed;
+    }
+
+    ;    @Override
     public int getSpeed() {
         return this.speed;
     }

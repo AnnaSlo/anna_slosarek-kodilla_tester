@@ -7,6 +7,11 @@ public class Ford implements Car {
     public Ford(){
         this.speed = 0;
     }
+
+    public Ford(int speed) {
+        this.speed = speed;
+    }
+
     @Override
     public int getSpeed() {
         return this.speed;
