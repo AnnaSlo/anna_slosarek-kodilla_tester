@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c0d0d81-45ed-42b5-bcf9-c3e1e250afee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/arrays/ShapeApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/arrays/ShapeUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/arrays/homework/CarUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/arrays/homework/CarsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/lists/GeneralShapesListApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/lists/ShapesListApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/lists/homework/CarListApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/OrderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/homework/Stamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/homework/StampsApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-collections/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-collections/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/homework/Audi.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/homework/Audi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/homework/Ford.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/homework/Ford.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/homework/Opel.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/homework/Opel.java" afterDir="false" />
@@ -50,21 +55,21 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/kodilla-course",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/kodilla-course&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -151,8 +156,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.com.kodilla.bank.homework in kodilla-basic-tests_test" />
         <item itemvalue="JUnit.BankTestSuite.shouldReturnTotalAverageOfDeposits" />
+        <item itemvalue="JUnit.com.kodilla.bank.homework in kodilla-basic-tests_test" />
         <item itemvalue="JUnit.BankTestSuite.shouldReturnTotalBalanceForAllCashMaschines" />
         <item itemvalue="JUnit.BankTestSuite.shouldReturnTotalAverageOfWithdrawals" />
         <item itemvalue="JUnit.BankTestSuite.shouldReturnTotalWithdrawalsSum" />
