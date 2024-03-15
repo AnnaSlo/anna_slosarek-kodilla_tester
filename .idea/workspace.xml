@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c0d0d81-45ed-42b5-bcf9-c3e1e250afee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/maps/BasicMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/maps/complex/ComplexMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/maps/complex/Grades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/maps/complex/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/maps/homework/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/maps/homework/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/maps/homework/SchoolDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/immutable/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/immutable/BookHacked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/immutable/BookRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/immutable/ImmutableExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +26,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
