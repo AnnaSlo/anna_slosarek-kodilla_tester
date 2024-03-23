@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c0d0d81-45ed-42b5-bcf9-c3e1e250afee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/immutable/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/immutable/BookHacked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/immutable/BookRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/immutable/ImmutableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/excercises/dictionary/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/excercises/dictionary/EnglishWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/excercises/dictionary/PartOfSpeech.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/excercises/homework/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/excercises/homework/FlightFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/excercises/homework/FlightRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/test/java/com/codilla/collections/adv/excercises/dictionary/DictionaryTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/test/java/com/codilla/collections/adv/excercises/homework/FlightFinderTestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-collections-advanced/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-collections-advanced/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +30,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Record" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -53,6 +60,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/kodilla-course&quot;,
@@ -65,6 +74,13 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.codilla.collections.adv.maps.complex" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.codilla.collections.adv.excercises.homework" />
+      <recent name="com.codilla.collections.adv.excercises.dictionary" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -119,17 +135,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankTestSuite.shouldReturnTotalWithdrawalsSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kodilla-basic-tests_test" />
+    <configuration name="FlightFinderTestSuite.testFindFlightsTo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kodilla-collections-advanced_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla.bank.homework.*" />
+          <option name="PATTERN" value="com.codilla.collections.adv.excercises.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.kodilla.bank.homework" />
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.bank.homework.BankTestSuite" />
-      <option name="METHOD_NAME" value="shouldReturnTotalWithdrawalsSum" />
+      <option name="PACKAGE_NAME" value="com.codilla.collections.adv.excercises.homework" />
+      <option name="MAIN_CLASS_NAME" value="com.codilla.collections.adv.excercises.homework.FlightFinderTestSuite" />
+      <option name="METHOD_NAME" value="testFindFlightsTo" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -151,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FlightFinderTestSuite.testFindFlightsTo" />
         <item itemvalue="JUnit.BankTestSuite.shouldReturnTotalAverageOfDeposits" />
         <item itemvalue="JUnit.com.kodilla.bank.homework in kodilla-basic-tests_test" />
         <item itemvalue="JUnit.BankTestSuite.shouldReturnTotalBalanceForAllCashMaschines" />
         <item itemvalue="JUnit.BankTestSuite.shouldReturnTotalAverageOfWithdrawals" />
-        <item itemvalue="JUnit.BankTestSuite.shouldReturnTotalWithdrawalsSum" />
       </list>
     </recent_temporary>
   </component>
