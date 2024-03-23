@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c0d0d81-45ed-42b5-bcf9-c3e1e250afee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/excercises/dictionary/Dictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/excercises/dictionary/EnglishWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/excercises/dictionary/PartOfSpeech.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/excercises/homework/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/excercises/homework/FlightFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/codilla/collections/adv/excercises/homework/FlightRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/test/java/com/codilla/collections/adv/excercises/dictionary/DictionaryTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/test/java/com/codilla/collections/adv/excercises/homework/FlightFinderTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/UsersManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/UsersRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/UsersManagerTestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-collections-advanced/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-collections-advanced/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +75,7 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kodilla.stream" />
       <recent name="com.codilla.collections.adv.excercises.homework" />
       <recent name="com.codilla.collections.adv.excercises.dictionary" />
     </key>
