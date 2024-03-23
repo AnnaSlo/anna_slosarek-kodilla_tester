@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c0d0d81-45ed-42b5-bcf9-c3e1e250afee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/optional/OptionalExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/optional/homework/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/optional/homework/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/optional/homework/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/optional/homework/ApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/AverageAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/stream/homework/ForumStats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/stream/homework/ForumStatsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +73,7 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kodilla.stream.homework" />
       <recent name="com.kodilla.stream.optional.homework" />
       <recent name="com.kodilla.stream" />
       <recent name="com.codilla.collections.adv.excercises.homework" />
