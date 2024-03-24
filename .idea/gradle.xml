@@ -1,4 +1,4 @@
-git remote add origin git@github.com:AnnaSlo/anna_slosarek-kodilla_tester.git<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
@@ -9,6 +9,13 @@ git remote add origin git@github.com:AnnaSlo/anna_slosarek-kodilla_tester.git<?x
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/kodilla-advanced-tests" />
+            <option value="$PROJECT_DIR$/kodilla-advanced-tests2" />
+            <option value="$PROJECT_DIR$/kodilla-basic-tests" />
+            <option value="$PROJECT_DIR$/kodilla-collections" />
+            <option value="$PROJECT_DIR$/kodilla-collections-advanced" />
+            <option value="$PROJECT_DIR$/kodilla-intro" />
+            <option value="$PROJECT_DIR$/kodilla-stream" />
           </set>
         </option>
       </GradleProjectSettings>
