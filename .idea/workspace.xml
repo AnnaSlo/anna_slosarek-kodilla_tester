@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c0d0d81-45ed-42b5-bcf9-c3e1e250afee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/parametrized_tests/NumberChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/parametrized_tests/StringManipulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/parametrized_tests/StringValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/parametrized_tests/homework/UserValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/parametrized_tests/NumberCheckerTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/parametrized_tests/StringManipulatorTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/parametrized_tests/StringValidatorTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/parametrized_tests/homework/UserValidatorTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/parametrized_tests/homework/GamblingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/parametrized_tests/homework/InvalidNumbersException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/parametrized_tests/homework/GamblingMachineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/resources/invalidNumbers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/resources/stringCountNumberOfCommas.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/resources/stringWithLowerCase.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/resources/validNumbers.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/parametrized_tests/StringManipulatorTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/parametrized_tests/StringManipulatorTestSuite.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,5 +187,8 @@
       <updated>1701806925172</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
 </project>
