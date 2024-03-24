@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c0d0d81-45ed-42b5-bcf9-c3e1e250afee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/exception/AirportNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/exception/AirportRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/exception/FirstExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/exception/SecondExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/exception/ThirdExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/exception/UserDialogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/exception/homework/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/exception/homework/OrderDoesntExistException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/exception/homework/Warehouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/exception/homework/WarehouseApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/exception/AirportRepositoryTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-stream/src/test/java/com/kodilla/exception/homework/WarehouseTestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/exception/homework/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-stream/src/main/java/com/kodilla/exception/homework/Order.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +26,8 @@
         <option value="Interface" />
         <option value="Record" />
         <option value="Enum" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -80,11 +73,11 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kodilla.exception.homework" />
+      <recent name="com.kodilla.exception" />
       <recent name="com.kodilla.stream.homework" />
       <recent name="com.kodilla.stream.optional.homework" />
       <recent name="com.kodilla.stream" />
-      <recent name="com.codilla.collections.adv.excercises.homework" />
-      <recent name="com.codilla.collections.adv.excercises.dictionary" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
