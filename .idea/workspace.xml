@@ -5,19 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c0d0d81-45ed-42b5-bcf9-c3e1e250afee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/parametrized_tests/homework/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/parametrized_tests/StringSources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/parametrized_tests/homework/DoubleSources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/parametrized_tests/homework/PersonTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/execution_model/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/execution_model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/execution_model/homework/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/execution_model/homework/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/mockito/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/mockito/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/notification/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/notification/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/execution_model/InvoiceTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/execution_model/homework/ShopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/mockito/MobilePhoneTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/mockito/NotificationServiceTestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kodilla-advanced-tests/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-advanced-tests/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/parametrized_tests/StringManipulatorTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/parametrized_tests/StringManipulatorTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-collections/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-collections/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-intro/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-intro/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-stream/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-stream/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,11 +57,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Record" />
         <option value="Enum" />
-        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -107,11 +108,11 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kodilla.execution_model.homework" />
+      <recent name="com.kodilla.execution_model" />
       <recent name="com.kodilla.parametrized_tests.homework" />
       <recent name="com.kodilla.parametrized_tests" />
       <recent name="com.kodilla.exception.homework" />
-      <recent name="com.kodilla.exception" />
-      <recent name="com.kodilla.stream.homework" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -212,8 +213,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.PersonTestSuite" />
         <item itemvalue="Gradle.kodilla-course [dependencies]" />
+        <item itemvalue="Gradle.PersonTestSuite" />
         <item itemvalue="JUnit.FlightFinderTestSuite.testFindFlightsTo" />
         <item itemvalue="JUnit.BankTestSuite.shouldReturnTotalAverageOfDeposits" />
         <item itemvalue="JUnit.com.kodilla.bank.homework in kodilla-basic-tests_test" />
