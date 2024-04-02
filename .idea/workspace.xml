@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c0d0d81-45ed-42b5-bcf9-c3e1e250afee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/execution_model/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/execution_model/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/execution_model/homework/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/execution_model/homework/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/mockito/MobilePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/mockito/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/notification/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/notification/Notification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/execution_model/InvoiceTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/execution_model/homework/ShopTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/mockito/MobilePhoneTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/mockito/NotificationServiceTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/mockito/homework/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/mockito/homework/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/mockito/homework/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/mockito/homework/WeatherAlertService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/mockito/homework/WeatherAlertServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kodilla-advanced-tests/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-advanced-tests/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/mockito/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/mockito/NotificationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/mockito/NotificationServiceTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/mockito/NotificationServiceTestSuite.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +55,8 @@
         <option value="Record" />
         <option value="Enum" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -108,11 +103,11 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kodilla.mockito.homework" />
       <recent name="com.kodilla.execution_model.homework" />
       <recent name="com.kodilla.execution_model" />
       <recent name="com.kodilla.parametrized_tests.homework" />
       <recent name="com.kodilla.parametrized_tests" />
-      <recent name="com.kodilla.exception.homework" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -133,6 +128,30 @@
             <option value=":kodilla-advanced-tests:test" />
             <option value="--tests" />
             <option value="&quot;com.kodilla.parametrized_tests.homework.PersonTestSuite&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="WeatherAlertServiceTest.shouldAddSubscriber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":kodilla-advanced-tests:test" />
+            <option value="--tests" />
+            <option value="&quot;com.kodilla.mockito.homework.WeatherAlertServiceTest.shouldAddSubscriber&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -197,27 +216,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kodilla.bank.homework in kodilla-basic-tests_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kodilla-basic-tests_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kodilla.bank.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.kodilla.bank.homework" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.WeatherAlertServiceTest.shouldAddSubscriber" />
         <item itemvalue="Gradle.kodilla-course [dependencies]" />
         <item itemvalue="Gradle.PersonTestSuite" />
         <item itemvalue="JUnit.FlightFinderTestSuite.testFindFlightsTo" />
         <item itemvalue="JUnit.BankTestSuite.shouldReturnTotalAverageOfDeposits" />
-        <item itemvalue="JUnit.com.kodilla.bank.homework in kodilla-basic-tests_test" />
       </list>
     </recent_temporary>
   </component>
@@ -245,5 +250,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/mockito/homework/WeatherAlertServiceTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
